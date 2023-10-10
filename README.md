@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krius</h1>
+<h1 align="center">Hi 👋, Krius here. Welcome to my github profile.</h1>
 <h3 align="center">A back end developer from India.</h3>
 
 <img align="right" alt="Coding" width="200" src="./profile.gif">
