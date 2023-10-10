@@ -4,21 +4,21 @@
 <img align="right" alt="Coding" width="200" src="./profile.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krius2023&label=Profile%20views&color=0e75b6&style=flat" alt="krius2023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krius2023" alt="krius2023" /></a> </p>
-
 - 🌱 I’m currently learning **JS/TS & React JS.**
 
-- 📝 I regularly write articles on [https://krius2023.hashnode.dev/](https://krius2023.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://krius2023.hashnode.dev/) 
 
-- ⚡ Fun fact **Deep affection for vegetables and a strong lover of tea.**
+- ⚡ Deep affection for vegetables and a strong lover of tea.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+### I write some blogs here
+- <a href='https://krius2023.hashnode.dev/i-did-this-to-complete-one-of-my-daily-tasks-javascript-array-of-objects' target='_blank'>One from my daily tasks</a>
+
+- <a href='https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css' target='_blank'>A simple quote generator web app</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krius2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krius2023" height="30" width="40" /></a>
+<a href="https://twitter.com/krius2023" target="blank"><img align="center" src="./logos/twitter.svg" alt="krius2023" height="30" width="40" /></a>
 <a href="https://hashnode.com/@krius2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@krius2023" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krius2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krius2023" height="30" width="40" /></a>
 <a href="/https://krius2023.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://krius2023.hashnode.dev/rss.xml" height="30" width="40" /></a>
