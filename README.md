@@ -1,4 +1,5 @@
 Hi 👋, <a href="https://github.com/Krius2023" target="_blank">Krius</a> here.
+<a href="https://github.com/Krius2023" target="_blank"><img title='github' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth='20' width='20' /></a>
 <a href="https://hashnode.com/@krius2023" target="_blank"><img title='hashnode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth='20' width='20'/></a>
 <a href="https://www.leetcode.com/krius2023" target="_blank"><img title='leetcode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth='20' width='20'/></a>
 <a href="https://codepen.io/krius2023" target="_blank"><img title='codepen' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth='20' width='20'/></a>
