@@ -7,7 +7,7 @@ Hi 👋, <a href="https://github.com/Krius2023" target="_blank">Krius</a> here.
 
 <h1 align="center">Welcome to my github profile.</h1>
 
-<h3 align="center">A back end developer from India.</h3>
+<h3 align="center">A web developer from India.</h3>
 
 - 🌱 I’m currently learning **JS/TS & React JS.**
 
