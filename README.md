@@ -1,10 +1,10 @@
-Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank" onclick="window.open('https://github.com/Krius2023', '_blank'); return false;">Usha</a> here.
-<a href="https://github.com/Krius2023?tab=repositories" target="_blank" rel="noopener noreferrer"><img title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth="20" width="20" /></a>
-<a href="https://krius2023.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img title="hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth="20" width="20"/></a>
-<a href="https://www.leetcode.com/krius2023" target="_blank" rel="noopener noreferrer"><img title="leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth="20" width="20"/></a>
-<a href="https://codepen.io/krius2023" target="_blank" rel="noopener noreferrer"><img title="codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth="20" width="20"/></a>
-<a href="https://exercism.org/profiles/Krius2023/solutions" target="_blank" rel="noopener noreferrer"><img title="exercism" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth="20" width="20"/></a>
-<a href="https://twitter.com/krius2023" target="_blank" rel="noopener noreferrer"><img title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth="20" width="20"/></a>
+Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
+<a href="https://github.com/Krius2023?tab=repositories"><img title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth="20" width="20" /></a>
+<a href="https://krius2023.hashnode.dev/"><img title="hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth="20" width="20"/></a>
+<a href="https://www.leetcode.com/krius2023"><img title="leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth="20" width="20"/></a>
+<a href="https://codepen.io/krius2023"><img title="codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth="20" width="20"/></a>
+<a href="https://exercism.org/profiles/Krius2023/solutions"><img title="exercism" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth="20" width="20"/></a>
+<a href="https://twitter.com/krius2023"><img title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth="20" width="20"/></a>
 
 <h1 align="center">Welcome to my github profile.</h1>
 
@@ -18,15 +18,15 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank" onc
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
-- <a href="https://krius2023.hashnode.dev/deploy-vite-react-app-in-github" target="_blank" rel="noopener noreferrer">
+- <a href="https://krius2023.hashnode.dev/deploy-vite-react-app-in-github">
   One of the approaches to deploy Vite + React app in GitHub
   </a>
   
-- <a href="https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work" target="_blank" rel="noopener noreferrer">
+- <a href="https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work">
   TypeScript - Types and Interfaces which I use in day-to-day project work
   </a>
   
-- <a href="https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css" target="_blank" rel="noopener noreferrer">
+- <a href="https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css">
   A simple quote generator web app
   </a>
 <!-- BLOG-POST-LIST:END -->
