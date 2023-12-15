@@ -10,16 +10,22 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank">Kri
 
 <h3 align="center">A web developer from India.</h3>
 
-- 🌱 I’m currently learning **JS/TS & React JS.**
+- :pushpin: I’m focussed on BE development using **JavaSCript, TypeScript**
 
-- ⚡ Deep affection for vegetables and a strong lover of tea.
+- :pushpin: Interested in learning **React JS**/any FE development.
+  
+- :pushpin: Deep affection for vegetables and a strong lover of tea.
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
-- <a href='https://krius2023.hashnode.dev/i-did-this-to-complete-one-of-my-daily-tasks-javascript-array-of-objects' target='_blank'>
-  One from my daily tasks
+- <a href='https://krius2023.hashnode.dev/deploy-vite-react-app-in-github' target='_blank'>
+  One of the approaches to deploy Vite + React app in GitHub
   </a>
-
+  
+- <a href='https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work' target='_blank'>
+  TypeScript - Types and Interfaces which I use in day-to-day project work
+  </a>
+  
 - <a href='https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css' target='_blank'>
   A simple quote generator web app
   </a>
