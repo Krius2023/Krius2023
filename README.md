@@ -1,16 +1,16 @@
 Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank">Usha</a> here.
-<a href="https://github.com/Krius2023" target="_blank"><img title='github' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth='20' width='20' /></a>
-<a href="https://hashnode.com/@krius2023" target="_blank"><img title='hashnode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth='20' width='20'/></a>
+<a href="https://github.com/Krius2023?tab=repositories" target="_blank"><img title='github' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth='20' width='20' /></a>
+<a href="https://krius2023.hashnode.dev/" target="_blank"><img title='hashnode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth='20' width='20'/></a>
 <a href="https://www.leetcode.com/krius2023" target="_blank"><img title='leetcode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth='20' width='20'/></a>
 <a href="https://codepen.io/krius2023" target="_blank"><img title='codepen' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth='20' width='20'/></a>
-<a href="https://exercism.org/profiles/Krius2023" target="_blank"><img title='exercism' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth='20' width='20'/></a>
+<a href="https://exercism.org/profiles/Krius2023/solutions" target="_blank"><img title='exercism' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth='20' width='20'/></a>
 <a href="https://twitter.com/krius2023" target="_blank"><img title='twitter' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth='20' width='20'/></a>
 
 <h1 align="center">Welcome to my github profile.</h1>
 
 <h3 align="center">A web developer from India.</h3>
 
-- :pushpin: I’m focussed on BE development using **JavaSCript, TypeScript**
+- :pushpin: I’m focussed on BE development using **JavaScript, TypeScript**
 
 - :pushpin: Interested in learning **React JS**/any FE development.
   
