@@ -1,10 +1,10 @@
-Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank">Usha</a> here.
-<a href="https://github.com/Krius2023?tab=repositories" target="_blank"><img title='github' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth='20' width='20' /></a>
-<a href="https://krius2023.hashnode.dev/" target="_blank"><img title='hashnode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth='20' width='20'/></a>
-<a href="https://www.leetcode.com/krius2023" target="_blank"><img title='leetcode' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth='20' width='20'/></a>
-<a href="https://codepen.io/krius2023" target="_blank"><img title='codepen' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth='20' width='20'/></a>
-<a href="https://exercism.org/profiles/Krius2023/solutions" target="_blank"><img title='exercism' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth='20' width='20'/></a>
-<a href="https://twitter.com/krius2023" target="_blank"><img title='twitter' src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth='20' width='20'/></a>
+Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank" rel="noopener noreferrer">Usha</a> here.
+<a href="https://github.com/Krius2023?tab=repositories" target="_blank" rel="noopener noreferrer"><img title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth="20" width="20" /></a>
+<a href="https://krius2023.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img title="hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth="20" width="20"/></a>
+<a href="https://www.leetcode.com/krius2023" target="_blank" rel="noopener noreferrer"><img title="leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth="20" width="20"/></a>
+<a href="https://codepen.io/krius2023" target="_blank" rel="noopener noreferrer"><img title="codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth="20" width="20"/></a>
+<a href="https://exercism.org/profiles/Krius2023/solutions" target="_blank" rel="noopener noreferrer"><img title="exercism" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth="20" width="20"/></a>
+<a href="https://twitter.com/krius2023" target="_blank" rel="noopener noreferrer"><img title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth="20" width="20"/></a>
 
 <h1 align="center">Welcome to my github profile.</h1>
 
@@ -18,15 +18,15 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank">Ush
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
-- <a href='https://krius2023.hashnode.dev/deploy-vite-react-app-in-github' target='_blank'>
+- <a href="https://krius2023.hashnode.dev/deploy-vite-react-app-in-github" target="_blank" rel="noopener noreferrer">
   One of the approaches to deploy Vite + React app in GitHub
   </a>
   
-- <a href='https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work' target='_blank'>
+- <a href="https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work" target="_blank" rel="noopener noreferrer">
   TypeScript - Types and Interfaces which I use in day-to-day project work
   </a>
   
-- <a href='https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css' target='_blank'>
+- <a href="https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css" target="_blank" rel="noopener noreferrer">
   A simple quote generator web app
   </a>
 <!-- BLOG-POST-LIST:END -->
@@ -65,5 +65,5 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank">Ush
 <!-- Github Profile Status -->
 ##### More stats on GitHub
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krius2023&theme=dark&bg_color=121212)](https://github.com/krius2023/github-readme-stats)
-![Krius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krius2023&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
-![Krius's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=krius2023)
+![Krius"s GitHub Stats](https://github-readme-stats.vercel.app/api?username=krius2023&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
+![Krius"s GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=krius2023)
