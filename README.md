@@ -1,4 +1,4 @@
-Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank" rel="noopener noreferrer">Usha</a> here.
+Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/" target="_blank" onclick="window.open('https://github.com/Krius2023', '_blank'); return false;">Usha</a> here.
 <a href="https://github.com/Krius2023?tab=repositories" target="_blank" rel="noopener noreferrer"><img title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth="20" width="20" /></a>
 <a href="https://krius2023.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img title="hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth="20" width="20"/></a>
 <a href="https://www.leetcode.com/krius2023" target="_blank" rel="noopener noreferrer"><img title="leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth="20" width="20"/></a>
