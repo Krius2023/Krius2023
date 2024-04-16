@@ -18,10 +18,14 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
-- <a href="https://krius2023.hashnode.dev/deploy-vite-react-app-in-github">
-  One of the approaches to deploy Vite + React app in GitHub
+- <a href="https://krius2023.hashnode.dev/using-npmrc-profiles-to-switch-between-differnet-npm-registry">
+  Using npmrc profiles to switch between differnet npm registry
   </a>
   
+- <a href="https://krius2023.hashnode.dev/generating-customized-sample-data-to-use-in-the-development">
+  Generating Customized Sample Data to Use in the Development
+  </a>
+   
 - <a href="https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work">
   TypeScript - Types and Interfaces which I use in day-to-day project work
   </a>
