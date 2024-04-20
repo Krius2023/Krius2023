@@ -18,6 +18,10 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
+- <a href="https://krius2023.hashnode.dev/dynamic-function-calls-with-javascript-mapping-technique">
+  Dynamic Function Calls with JavaScript Mapping Technique
+  </a>
+  
 - <a href="https://krius2023.hashnode.dev/using-npmrc-profiles-to-switch-between-differnet-npm-registry">
   Using npmrc profiles to switch between differnet npm registry
   </a>
