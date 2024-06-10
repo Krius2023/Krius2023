@@ -6,7 +6,7 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 <a href="https://exercism.org/profiles/Krius2023/solutions"><img title="exercism" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth="20" width="20"/></a>
 <a href="https://twitter.com/krius2023"><img title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth="20" width="20"/></a>
 
-![Header](./github-header-image.png)
+![Header](./header-img.png)
 
 <h1 align="center">Welcome to my GitHub profile.</h1>
 
