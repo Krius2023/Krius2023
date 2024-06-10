@@ -10,6 +10,8 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <h3 align="center">A web developer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krius2023&label=views&color=0e75b6&style=flat"/></p>
+
 - :pushpin: I’m focussed on BE development using **TypeScript, JavaScript**
 
 - :pushpin: Deep affection for vegetables and a strong lover of tea.
