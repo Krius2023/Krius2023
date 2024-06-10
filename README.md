@@ -10,14 +10,20 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <h3 align="center">A web developer from India.</h3>
 
-- :pushpin: I’m focussed on BE development using **JavaScript, TypeScript**
+- :pushpin: I’m focussed on BE development using **TypeScript, JavaScript**
 
-- :pushpin: Interested in learning **React JS**/any FE development.
-  
 - :pushpin: Deep affection for vegetables and a strong lover of tea.
+  
+- :pushpin: Interested in learning **React JS**/any FE development.
+
+- :pushpin: Hobbies - Mandala art, Vegetable gardening, Cooking, Journalling
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
+- <a href="https://krius2023.hashnode.dev/mongodb-crud-coding-challenge">
+  MongoDB CRUD Coding Challenge
+  </a>
+  
 - <a href="https://krius2023.hashnode.dev/dynamic-function-calls-with-javascript-mapping-technique">
   Dynamic Function Calls with JavaScript Mapping Technique
   </a>
