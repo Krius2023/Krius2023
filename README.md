@@ -15,6 +15,7 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 <img align="right" alt="Coding" width="400" src="./github_img.png">
 
 <p align="left">
+
 - :pushpin: I’m focussed on BE development using **TypeScript, JavaScript**
   
 - :pushpin: Interested in learning **React JS**/any FE development.
