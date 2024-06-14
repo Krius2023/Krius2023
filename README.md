@@ -14,14 +14,13 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <img align="right" alt="Coding" width="400" src="./github_img.png">
 
-
+<p align="left">
 - :pushpin: I’m focussed on BE development using **TypeScript, JavaScript**
-
-- :pushpin: Deep affection for vegetables and a strong lover of tea.
   
 - :pushpin: Interested in learning **React JS**/any FE development.
 
 - :pushpin: Hobbies - Mandala art, Vegetable gardening, Cooking, Journalling
+</p>
 
 <!-- BLOG-POST-LIST:START -->
 ##### Latest blogs
