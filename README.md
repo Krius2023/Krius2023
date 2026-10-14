@@ -1,10 +1,4 @@
 Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
-<a href="https://github.com/Krius2023?tab=repositories"><img title="github" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/github.svg" alt="twitter" heigth="20" width="20" /></a>
-<a href="https://krius2023.hashnode.dev/"><img title="hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/hashnode.svg" alt="hashnode" heigth="20" width="20"/></a>
-<a href="https://www.leetcode.com/krius2023"><img title="leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/leetcode.svg" alt="leetcode" heigth="20" width="20"/></a>
-<a href="https://codepen.io/krius2023"><img title="codepen" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codepen.svg" alt="codepen" heigth="20" width="20"/></a>
-<a href="https://exercism.org/profiles/Krius2023/solutions"><img title="exercism" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/exercism.svg" alt="exercism" heigth="20" width="20"/></a>
-<a href="https://twitter.com/krius2023"><img title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/twitter.svg" alt="twitter" heigth="20" width="20"/></a>
 
 ![Header](./header_img.png)
 
@@ -24,30 +18,16 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-##### Latest blogs
-- <a href="https://krius2023.hashnode.dev/mongodb-crud-coding-challenge">
-  MongoDB CRUD Coding Challenge
-  </a>
-  
-- <a href="https://krius2023.hashnode.dev/dynamic-function-calls-with-javascript-mapping-technique">
-  Dynamic Function Calls with JavaScript Mapping Technique
-  </a>
-  
-- <a href="https://krius2023.hashnode.dev/using-npmrc-profiles-to-switch-between-differnet-npm-registry">
-  Using npmrc profiles to switch between differnet npm registry
-  </a>
-  
-- <a href="https://krius2023.hashnode.dev/generating-customized-sample-data-to-use-in-the-development">
-  Generating Customized Sample Data to Use in the Development
-  </a>
-   
-- <a href="https://krius2023.hashnode.dev/typescript-types-and-interfaces-which-i-use-in-day-to-day-project-work">
-  TypeScript - Types and Interfaces which I use in day-to-day project work
-  </a>
-  
-- <a href="https://krius2023.hashnode.dev/quote-generator-using-vite-react-tailwind-css">
-  A simple quote generator web app
-  </a>
+##### Small Write-ups
+1. [MongoDB CRUD Coding Challenge](https://github.com/Krius2023/write-ups/blob/main/post-1.md)
+2. [Dynamic Function Calls with JavaScript Mapping Technique](https://github.com/Krius2023/write-ups/blob/main/post-2.md)
+3. [Using npmrc profiles to switch between differnet npm registry](https://github.com/Krius2023/write-ups/blob/main/post-3.md)
+4. [Generating Customized Sample Data to Use in the Development](https://github.com/Krius2023/write-ups/blob/main/post-4.md)
+5. [Using Nodemon in TypeScript Project](https://github.com/Krius2023/write-ups/blob/main/post-5.md)
+6. [One of the approaches to deploy Vite + React app in GitHub](https://github.com/Krius2023/write-ups/blob/main/post-6.md)
+7. [TypeScript - Types and Interfaces which I use in day-to-day project work](https://github.com/Krius2023/write-ups/blob/main/post-7.md)
+8. [Quote Generator using Vite-React & tailwind CSS](https://github.com/Krius2023/write-ups/blob/main/post-8.md)
+9. [I did this to complete one of my daily tasks - JavaScript - Array of objects](https://github.com/Krius2023/write-ups/blob/main/post-9.md)
 <!-- BLOG-POST-LIST:END -->
 
 ##### CODE
