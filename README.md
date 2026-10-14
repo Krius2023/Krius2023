@@ -10,9 +10,7 @@ Hi 👋, <a href="https://krius2023.github.io/portfolio-v1/">Usha</a> here.
 
 <p align="left">
 
-- :pushpin: I’m focussed on BE development using **TypeScript, JavaScript**
-  
-- :pushpin: Interested in learning **React JS**/any FE development.
+- :pushpin: I’m focussed on backend development using **TypeScript, JavaScript**
 
 - :pushpin: Hobbies - Mandala art, Vegetable gardening, Cooking, Journalling
 </p>
